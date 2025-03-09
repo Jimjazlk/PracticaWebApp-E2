@@ -1,4 +1,4 @@
-# Aplicación Hola Mundo con MySQL
+# Hola Mundo con MySQL
 
 Esta es una aplicación web simple que muestra un mensaje "Hola Mundo" y almacena datos en una base de datos MySQL.
 Todo está configurado usando Docker Compose.
